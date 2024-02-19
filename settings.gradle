@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RoborazziCacheBug"
 include ':app'
+include ':mylibrary'
